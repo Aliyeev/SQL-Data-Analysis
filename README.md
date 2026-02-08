@@ -21,3 +21,17 @@ Open `sales_analysis.sql` in Oracle SQL Developer or any SQL editor and run the 
 ## Author
 
 Allahverdi Aliyev 
+
+## Example Results
+
+### SQL Queries Screenshot 1
+![SQL Queries](images/sql.png)
+
+### SQL Queries Screenshot 2
+![SQL Queries](images/sql1.png)
+
+### SQL Queries Screenshot 3
+![SQL Queries](images/sql2.png)
+
+### SQL Queries Screenshot 4
+![SQL Queries](images/sql3.png)
